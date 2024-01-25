@@ -1,5 +1,5 @@
 # US-YIT-101
-https://drive.google.com/drive/u/0/folders/1DotKyGlG71dVOQRogMagWvEllHplZS0z?q=sharedwith:public%20parent:1DotKyGlG71dVOQRogMagWvEllHplZS0z
+https://drive.google.com/drive/u/0/folders/1DotKyGlG71dVOQRogMagWvEllHplZS0z
 Problem Statement-1 
 . Doctor Appointment Scheduling Application
 Objective: Create a web or mobile application for eƯicient doctor appointment 
